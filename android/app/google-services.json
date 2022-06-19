@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "800575668803",
+      "project_id": "guideapptest-ec176",
+      "storage_bucket": "guideapptest-ec176.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:800575668803:android:213fa4667d2c147ab50af6",
+          "android_client_info": {
+            "package_name": "com.example.guidegametest"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "800575668803-vseq3gbd9hi0146b5j61peraphtjmqda.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAditJWW5KQJAxbuLbOiY_m6NMcdbp4ERM"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "800575668803-vseq3gbd9hi0146b5j61peraphtjmqda.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
